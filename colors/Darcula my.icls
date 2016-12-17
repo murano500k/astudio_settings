@@ -21,18 +21,18 @@
     </option>
     <option name="LOGCAT_DEBUG_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="6090b5" />
+        <option name="FOREGROUND" value="bbbbbb" />
       </value>
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="84a688" />
+        <option name="FOREGROUND" value="ceffd2" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="LOGCAT_VERBOSE_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="ffffff" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
