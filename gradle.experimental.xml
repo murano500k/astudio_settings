@@ -3,5 +3,6 @@
     <option name="SELECT_MODULES_ON_PROJECT_IMPORT" value="true" />
     <option name="SKIP_SOURCE_GEN_ON_PROJECT_SYNC" value="true" />
     <option name="USE_NEW_PROJECT_STRUCTURE_DIALOG" value="true" />
+    <option name="USE_NEW_GRADLE_SYNC" value="true" />
   </component>
 </application>
