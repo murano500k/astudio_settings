@@ -1,6 +1,6 @@
 <application>
   <component name="PathMacrosImpl">
-    <macro name="ANDROID_NDK_HOME" value="/home/artem/bin/android-ndk-r13b" />
+    <macro name="ANDROID_NDK_HOME" value="/home/artem/bin/android-ndk-r13b-linux-x86_64" />
     <macro name="KOTLIN_BUNDLED" value="/home/artem/.AndroidStudio2.3/config/plugins/Kotlin/kotlinc" />
   </component>
 </application>
