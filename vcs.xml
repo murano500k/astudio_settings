@@ -91,7 +91,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/murano500k/CrackVigenere.git" />
+          <option name="url" value="https://github.com/googlesamples/android-audio-high-performance.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlesamples/android-ndk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/murano500k/Runner.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.org/terrav/medieval-tycoon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
