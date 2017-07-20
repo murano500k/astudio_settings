@@ -110,6 +110,10 @@
           <option name="url" value="https://github.com/googlesamples/android-instant-apps.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/learnopengles/Learn-OpenGLES-Tutorials.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
