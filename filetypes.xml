@@ -7,9 +7,11 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="pb" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="so" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="otf" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
       <mapping ext="config" type="XML" />
     </extensionMap>
   </component>
