@@ -122,6 +122,10 @@
           <option name="url" value="https://github.com/manask88/speechrecognitiondemoapp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sdroege/gst-launch-remote.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/projects" />
