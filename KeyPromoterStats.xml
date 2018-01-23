@@ -18,11 +18,11 @@
         <entry key="'Ctrl+K'" value="4" />
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="2" />
-        <entry key="'Ctrl+T'" value="8" />
+        <entry key="'Ctrl+T'" value="9" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="5" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="4" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="6" />
-        <entry key="'Shift+F10'" value="76" />
+        <entry key="'Shift+F10'" value="77" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="4" />
       </map>
     </option>
