@@ -10,6 +10,7 @@
         <entry key="'Alt+F7'" value="1" />
         <entry key="'Alt+Insert'" value="6" />
         <entry key="'Alt+Shift+F10'" value="1" />
+        <entry key="'Ctrl+Alt+A'" value="1" />
         <entry key="'Ctrl+Alt+S'" value="2" />
         <entry key="'Ctrl+Alt+Shift+S'" value="5" />
         <entry key="'Ctrl+Alt+Y'" value="1" />
@@ -18,14 +19,14 @@
         <entry key="'Ctrl+D'" value="1" />
         <entry key="'Ctrl+F2'" value="26" />
         <entry key="'Ctrl+F9'" value="4" />
-        <entry key="'Ctrl+K'" value="15" />
+        <entry key="'Ctrl+K'" value="16" />
         <entry key="'Ctrl+S'" value="1" />
         <entry key="'Ctrl+Shift+F10'" value="7" />
-        <entry key="'Ctrl+T'" value="13" />
+        <entry key="'Ctrl+T'" value="14" />
         <entry key="'Ctrl+V' or 'Shift+Insert'" value="5" />
         <entry key="'Ctrl+X' or 'Shift+Delete'" value="5" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="6" />
-        <entry key="'Shift+F10'" value="137" />
+        <entry key="'Shift+F10'" value="139" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="4" />
         <entry key="'Shift+F9'" value="2" />
       </map>
