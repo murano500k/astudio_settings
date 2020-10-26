@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ColdWalletAndroid'" />
-    <option name="defaultScopeName" value="Project 'ColdWalletAndroid'" />
+    <option name="customScope" value="Directory '.../app/src/main/java/com/murano500k/coldwallet [ColdWalletAndroid.app]'" />
+    <option name="defaultScopeName" value="Directory '.../app/src/main/java/com/murano500k/coldwallet [ColdWalletAndroid.app]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'ColdWalletAndroid'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../app/src/main/java/com/murano500k/coldwallet [ColdWalletAndroid.app]'" />
   </component>
 </application>
